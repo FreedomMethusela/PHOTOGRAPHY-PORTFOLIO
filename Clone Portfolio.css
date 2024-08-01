@@ -118,6 +118,7 @@ hr {
   flex-wrap: wrap;
   position: relative;
   padding-left: 15px;
+  text-decoration: none;
 }
 
 .horizontal-list li {
@@ -157,8 +158,8 @@ hr {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background-image: url("Fine\ art\ back.htm");
-  border: 2px solid black;
+  /* background-image: url("Fine\ art\ back.htm"); */
+  /* border: 2px solid black; */
 }
 
 .photo {
@@ -262,7 +263,7 @@ footer {
 }
 
 a {
-  color: black;
+  color: #8B4513;
 }
 
 nav ul a:hover{
@@ -271,15 +272,15 @@ nav ul a:hover{
 }
 
 a:visited {
-  color: brown;
+  color: #A52A2A;
 }
 
 a:hover {
-  color: wheat;
+  color: #D2691E;
 }
 
 a:active {
-  color: #FFFFFF;
+  color: #B22222;
 }
 
 img {
